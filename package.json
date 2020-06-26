@@ -1,0 +1,19 @@
+{
+  "name": "ft-tech-test-ss",
+  "version": "1.0.0",
+  "description": "A JavaScript package that is able to fetch an array of URLs which contain JSON data and return their contents in a promise",
+  "main": "dist/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "build": "npx babel src --out-dir dist",
+    "start": "npx babel src --watch --out-dir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sheraz-sarwar"
+  },
+  "author": "Sheraz Sarwar",
+  "license": "MIT"
+}
