@@ -1,4 +1,5 @@
-require('node-fetch');
+require('es6-promise').polyfill();
+require('isomorphic-fetch');
 
 const requestMultipleUrls = (urls) => {
   // Throw an Error if the argument is not an array, as that's the only type we want to handle

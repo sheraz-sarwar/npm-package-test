@@ -1,4 +1,3 @@
-require('node-fetch');
 const fetchMock = require('fetch-mock');
 const requestMultipleUrls = require('../src');
 

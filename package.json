@@ -1,10 +1,11 @@
 {
   "name": "ft-tech-test-ss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript package that is able to fetch an array of URLs which contain JSON data and return their contents in a promise",
   "main": "dist/index.js",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^2.2.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.3",
