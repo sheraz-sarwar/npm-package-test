@@ -34,4 +34,4 @@ requestMultipleUrls(urls)
 
 `jest`: Jest is a popular testing framework for JavaScript. For this project, it is used to help define the test modules, tests, and assertions in `test/index.test.js`.
 
-`fetch-mock`: This package allows users to mock a http requests which use the fetch API. In our case, requests to the json files in the s3 buckets would be replaced with a mock response for the purpose of testing.
+`fetch-mock`: This package allows users to mock a http request which use the fetch API. In our case, requests to the json files in the s3 buckets would be replaced with a mock response for the purpose of testing.
