@@ -1,5 +1,5 @@
 # Introduction
-This package allows users to fetch an array of URLs which contain JSON data and return their contents in a promise
+This repo has been set up to test the creation, publication and installation of a simple npm package. The package allows users to fetch an array of URLs which contain JSON data and return their contents in a promise
 
 # Installation
 To install the package:
